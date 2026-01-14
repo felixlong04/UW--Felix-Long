@@ -2,7 +2,7 @@
 
 Hello! My name is Felix Loing! I study at the University of Washington. This page says a little about me.
 
-![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
+![Me!]](https://github.com/felixlong04/UW--Felix-Long/blob/main/Felix.jpg))
 
 ## Academics
 
