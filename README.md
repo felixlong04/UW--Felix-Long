@@ -11,9 +11,9 @@ I plan to work in the legal field beofre heading to law school. Long-term, I see
 
 Here is a list of my favorite classes at UW:
 
-- [Databases and Data Modeling](https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA)
-- [Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
-- [Introduction to Professional and Technical Writing](https://english.washington.edu/courses/2024/winter/engl/288/g)
+- [Commercial Dance](https://uw.instructure.com/courses/1868932)
+- [Miscarriages Of Justice](https://uw.instructure.com/courses/1831649)
+- [Emotion Regulation:Dialectics and Applications](https://uw.instructure.com/courses/1781228)
 
 ## Programming Background
 
