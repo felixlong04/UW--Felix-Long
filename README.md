@@ -28,5 +28,5 @@ I am completely new to programming. The following table summarizes my experience
 
 ## Hobies 
 
-I love to play pickleball! I started playing my freshman year of college. I enjoy the aspect of community and competition
-I love board games! My favorite board game of all time is Catan. I play Catan almost everday online.
+I love to play pickleball! I started playing my freshman year of college. I enjoy the aspect of community and competition.
+I also love board games! My favorite board game of all time is Catan. I play Catan almost everday online.
